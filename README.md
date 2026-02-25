@@ -1,4 +1,4 @@
-> [!CAUTION] In development:
+> Note: In development
 > This pipeline is still in development
 > and may not be functional.
 
