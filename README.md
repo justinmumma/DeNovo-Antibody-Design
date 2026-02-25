@@ -26,13 +26,18 @@ Once this pipeline is working to provide in-silico generation of candidate binde
 * **Molecular Dynamics (MD) Simulations:** Running GROMACS/Amber to verify the stability of the fentanyl-antibody complex over time.
 * **Wet-Lab Validation:** Synthesizing the top-scoring antibody candidates and testing their actual binding kinetics (Kd, Kon, Koff) using Biolayer Interferometry (BLI) or Surface Plasmon Resonance (SPR).
 
-* ## License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
 *(Note: This license applies to the computational pipeline and code structure, not the proprietary therapeutic sequences generated in the university lab).*
 
 ## Contact
 **Justin Mumma** 
+
 Pharmacology Research Assistant
+
 Pravetoni Lab | Center for Medication Development for Substance Use Disorders and Overdose | UW Medicine
+
 [https://www.linkedin.com/in/justinmumma/](https://www.linkedin.com/in/justinmumma/)
+
 jmumma@uw.edu
