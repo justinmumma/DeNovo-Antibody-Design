@@ -32,7 +32,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *(Note: This license applies to the computational pipeline and code structure, not the proprietary therapeutic sequences generated in the university lab).*
 
 ## Contact
-**Justin Mumma** , Pharmacology Research Assistant
+**Justin Mumma**, Pharmacology Research Assistant
 
 Pravetoni Lab | Center for Medication Development for Substance Use Disorders and Overdose | UW Medicine
 
